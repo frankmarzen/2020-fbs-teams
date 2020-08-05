@@ -1,6 +1,6 @@
 
 var request = new XMLHttpRequest();
-request.open("GET", "http://localhost:8080/data/teams.json");
+request.open("GET", "/data/teams.json");
 request.send();
 request.onreadystatechange = function () {
     if (request.readyState === 4 && request.status == "200") {
