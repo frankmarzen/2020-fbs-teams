@@ -1,0 +1,522 @@
+[
+    {
+        "name": "Air Force",
+        "playing": true
+    },
+    {
+        "name": "Akron",
+        "playing": true
+    },
+    {
+        "name": "Alabama",
+        "playing": true
+    },
+    {
+        "name": "Appalachian State",
+        "playing": true
+    },
+    {
+        "name": "Arizona",
+        "playing": true
+    },
+    {
+        "name": "Arizona State",
+        "playing": true
+    },
+    {
+        "name": "Arkansas",
+        "playing": true
+    },
+    {
+        "name": "Arkansas State",
+        "playing": true
+    },
+    {
+        "name": "Army",
+        "playing": true
+    },
+    {
+        "name": "Auburn",
+        "playing": true
+    },
+    {
+        "name": "Ball State",
+        "playing": true
+    },
+    {
+        "name": "Baylor",
+        "playing": true
+    },
+    {
+        "name": "Boise State",
+        "playing": true
+    },
+    {
+        "name": "Boston College",
+        "playing": true
+    },
+    {
+        "name": "Bowling Green",
+        "playing": true
+    },
+    {
+        "name": "Buffalo",
+        "playing": true
+    },
+    {
+        "name": "BYU",
+        "playing": true
+    },
+    {
+        "name": "California",
+        "playing": true
+    },
+    {
+        "name": "Central Michigan",
+        "playing": true
+    },
+    {
+        "name": "Charlotte",
+        "playing": true
+    },
+    {
+        "name": "Cincinnati",
+        "playing": true
+    },
+    {
+        "name": "Clemson",
+        "playing": true
+    },
+    {
+        "name": "Coastal Carolina",
+        "playing": true
+    },
+    {
+        "name": "Colorado",
+        "playing": true
+    },
+    {
+        "name": "Colorado State",
+        "playing": true
+    },
+    {
+        "name": "Duke",
+        "playing": true
+    },
+    {
+        "name": "East Carolina",
+        "playing": true
+    },
+    {
+        "name": "Eastern Michigan",
+        "playing": true
+    },
+    {
+        "name": "FIU",
+        "playing": true
+    },
+    {
+        "name": "Florida",
+        "playing": true
+    },
+    {
+        "name": "Florida Atlantic",
+        "playing": true
+    },
+    {
+        "name": "Florida State",
+        "playing": true
+    },
+    {
+        "name": "Fresno State",
+        "playing": true
+    },
+    {
+        "name": "Georgia",
+        "playing": true
+    },
+    {
+        "name": "Georgia Southern",
+        "playing": true
+    },
+    {
+        "name": "Georgia State",
+        "playing": true
+    },
+    {
+        "name": "Georgia Tech",
+        "playing": true
+    },
+    {
+        "name": "Hawaii",
+        "playing": true
+    },
+    {
+        "name": "Houston",
+        "playing": true
+    },
+    {
+        "name": "Illinois",
+        "playing": true
+    },
+    {
+        "name": "Indiana",
+        "playing": true
+    },
+    {
+        "name": "Iowa",
+        "playing": true
+    },
+    {
+        "name": "Iowa State",
+        "playing": true
+    },
+    {
+        "name": "Kansas",
+        "playing": true
+    },
+    {
+        "name": "Kansas State",
+        "playing": true
+    },
+    {
+        "name": "Kent State",
+        "playing": true
+    },
+    {
+        "name": "Kentucky",
+        "playing": true
+    },
+    {
+        "name": "Liberty",
+        "playing": true
+    },
+    {
+        "name": "Louisiana",
+        "playing": true
+    },
+    {
+        "name": "Louisiana–Monroe",
+        "playing": true
+    },
+    {
+        "name": "Louisiana Tech",
+        "playing": true
+    },
+    {
+        "name": "Louisville",
+        "playing": true
+    },
+    {
+        "name": "LSU",
+        "playing": true
+    },
+    {
+        "name": "Marshall",
+        "playing": true
+    },
+    {
+        "name": "Maryland",
+        "playing": true
+    },
+    {
+        "name": "Memphis",
+        "playing": true
+    },
+    {
+        "name": "Miami (FL)",
+        "playing": true
+    },
+    {
+        "name": "Miami (OH)",
+        "playing": true
+    },
+    {
+        "name": "Michigan",
+        "playing": true
+    },
+    {
+        "name": "Michigan State",
+        "playing": true
+    },
+    {
+        "name": "Middle Tennessee",
+        "playing": true
+    },
+    {
+        "name": "Minnesota",
+        "playing": true
+    },
+    {
+        "name": "Mississippi State",
+        "playing": true
+    },
+    {
+        "name": "Missouri",
+        "playing": true
+    },
+    {
+        "name": "Navy",
+        "playing": true
+    },
+    {
+        "name": "NC State",
+        "playing": true
+    },
+    {
+        "name": "Nebraska",
+        "playing": true
+    },
+    {
+        "name": "Nevada",
+        "playing": true
+    },
+    {
+        "name": "New Mexico",
+        "playing": true
+    },
+    {
+        "name": "New Mexico State",
+        "playing": true
+    },
+    {
+        "name": "North Carolina",
+        "playing": true
+    },
+    {
+        "name": "North Texas",
+        "playing": true
+    },
+    {
+        "name": "Northern Illinois",
+        "playing": true
+    },
+    {
+        "name": "Northwestern",
+        "playing": true
+    },
+    {
+        "name": "Notre Dame",
+        "playing": true
+    },
+    {
+        "name": "Ohio",
+        "playing": true
+    },
+    {
+        "name": "Ohio State",
+        "playing": true
+    },
+    {
+        "name": "Oklahoma",
+        "playing": true
+    },
+    {
+        "name": "Oklahoma State",
+        "playing": true
+    },
+    {
+        "name": "Old Dominion",
+        "playing": true
+    },
+    {
+        "name": "Ole Miss",
+        "playing": true
+    },
+    {
+        "name": "Oregon",
+        "playing": true
+    },
+    {
+        "name": "Oregon State",
+        "playing": true
+    },
+    {
+        "name": "Penn State",
+        "playing": true
+    },
+    {
+        "name": "Pittsburgh",
+        "playing": true
+    },
+    {
+        "name": "Purdue",
+        "playing": true
+    },
+    {
+        "name": "Rice",
+        "playing": true
+    },
+    {
+        "name": "Rutgers",
+        "playing": true
+    },
+    {
+        "name": "San Diego State",
+        "playing": true
+    },
+    {
+        "name": "San Jose State",
+        "playing": true
+    },
+    {
+        "name": "SMU",
+        "playing": true
+    },
+    {
+        "name": "South Alabama",
+        "playing": true
+    },
+    {
+        "name": "South Carolina",
+        "playing": true
+    },
+    {
+        "name": "South Florida",
+        "playing": true
+    },
+    {
+        "name": "Southern Miss",
+        "playing": true
+    },
+    {
+        "name": "Stanford",
+        "playing": true
+    },
+    {
+        "name": "Syracuse",
+        "playing": true
+    },
+    {
+        "name": "TCU",
+        "playing": true
+    },
+    {
+        "name": "Temple",
+        "playing": true
+    },
+    {
+        "name": "Tennessee",
+        "playing": true
+    },
+    {
+        "name": "Texas",
+        "playing": true
+    },
+    {
+        "name": "Texas A&M",
+        "playing": true
+    },
+    {
+        "name": "Texas State",
+        "playing": true
+    },
+    {
+        "name": "Texas Tech",
+        "playing": true
+    },
+    {
+        "name": "Toledo",
+        "playing": true
+    },
+    {
+        "name": "Troy",
+        "playing": true
+    },
+    {
+        "name": "Tulane",
+        "playing": true
+    },
+    {
+        "name": "Tulsa",
+        "playing": true
+    },
+    {
+        "name": "UAB",
+        "playing": true
+    },
+    {
+        "name": "UCF",
+        "playing": true
+    },
+    {
+        "name": "UCLA",
+        "playing": true
+    },
+    {
+        "name": "UConn",
+        "playing": false
+    },
+    {
+        "name": "UMass",
+        "playing": true
+    },
+    {
+        "name": "UNLV",
+        "playing": true
+    },
+    {
+        "name": "USC",
+        "playing": true
+    },
+    {
+        "name": "UTEP",
+        "playing": true
+    },
+    {
+        "name": "UTSA",
+        "playing": true
+    },
+    {
+        "name": "Utah",
+        "playing": true
+    },
+    {
+        "name": "Utah State",
+        "playing": true
+    },
+    {
+        "name": "Vanderbilt",
+        "playing": true
+    },
+    {
+        "name": "Virginia",
+        "playing": true
+    },
+    {
+        "name": "Virginia Tech",
+        "playing": true
+    },
+    {
+        "name": "Wake Forest",
+        "playing": true
+    },
+    {
+        "name": "Washington",
+        "playing": true
+    },
+    {
+        "name": "Washington State",
+        "playing": true
+    },
+    {
+        "name": "West Virginia",
+        "playing": true
+    },
+    {
+        "name": "Western Kentucky",
+        "playing": true
+    },
+    {
+        "name": "Western Michigan",
+        "playing": true
+    },
+    {
+        "name": "Wisconsin",
+        "playing": true
+    },
+    {
+        "name": "Wyoming",
+        "playing": true
+    }
+]
