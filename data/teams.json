@@ -5,7 +5,7 @@
     },
     {
         "name": "Akron",
-        "playing": true
+        "playing": false
     },
     {
         "name": "Alabama",
@@ -41,7 +41,7 @@
     },
     {
         "name": "Ball State",
-        "playing": true
+        "playing": false
     },
     {
         "name": "Baylor",
@@ -57,11 +57,11 @@
     },
     {
         "name": "Bowling Green",
-        "playing": true
+        "playing": false
     },
     {
         "name": "Buffalo",
-        "playing": true
+        "playing": false
     },
     {
         "name": "BYU",
@@ -73,7 +73,7 @@
     },
     {
         "name": "Central Michigan",
-        "playing": true
+        "playing": false
     },
     {
         "name": "Charlotte",
@@ -109,7 +109,7 @@
     },
     {
         "name": "Eastern Michigan",
-        "playing": true
+        "playing": false
     },
     {
         "name": "FIU",
@@ -181,7 +181,7 @@
     },
     {
         "name": "Kent State",
-        "playing": true
+        "playing": false
     },
     {
         "name": "Kentucky",
@@ -229,7 +229,7 @@
     },
     {
         "name": "Miami (OH)",
-        "playing": true
+        "playing": false
     },
     {
         "name": "Michigan",
@@ -289,7 +289,7 @@
     },
     {
         "name": "Northern Illinois",
-        "playing": true
+        "playing": false
     },
     {
         "name": "Northwestern",
@@ -301,7 +301,7 @@
     },
     {
         "name": "Ohio",
-        "playing": true
+        "playing": false
     },
     {
         "name": "Ohio State",
@@ -417,7 +417,7 @@
     },
     {
         "name": "Toledo",
-        "playing": true
+        "playing": false
     },
     {
         "name": "Troy",
@@ -509,7 +509,7 @@
     },
     {
         "name": "Western Michigan",
-        "playing": true
+        "playing": false
     },
     {
         "name": "Wisconsin",
