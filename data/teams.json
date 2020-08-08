@@ -157,15 +157,15 @@
     },
     {
         "name": "Illinois",
-        "playing": true
+        "playing": false
     },
     {
         "name": "Indiana",
-        "playing": true
+        "playing": false
     },
     {
         "name": "Iowa",
-        "playing": true
+        "playing": false
     },
     {
         "name": "Iowa State",
@@ -217,7 +217,7 @@
     },
     {
         "name": "Maryland",
-        "playing": true
+        "playing": false
     },
     {
         "name": "Memphis",
@@ -233,11 +233,11 @@
     },
     {
         "name": "Michigan",
-        "playing": true
+        "playing": false
     },
     {
         "name": "Michigan State",
-        "playing": true
+        "playing": false
     },
     {
         "name": "Middle Tennessee",
@@ -245,7 +245,7 @@
     },
     {
         "name": "Minnesota",
-        "playing": true
+        "playing": false
     },
     {
         "name": "Mississippi State",
@@ -265,7 +265,7 @@
     },
     {
         "name": "Nebraska",
-        "playing": true
+        "playing": false
     },
     {
         "name": "Nevada",
@@ -293,7 +293,7 @@
     },
     {
         "name": "Northwestern",
-        "playing": true
+        "playing": false
     },
     {
         "name": "Notre Dame",
@@ -305,7 +305,7 @@
     },
     {
         "name": "Ohio State",
-        "playing": true
+        "playing": false
     },
     {
         "name": "Oklahoma",
@@ -333,7 +333,7 @@
     },
     {
         "name": "Penn State",
-        "playing": true
+        "playing": false
     },
     {
         "name": "Pittsburgh",
@@ -341,7 +341,7 @@
     },
     {
         "name": "Purdue",
-        "playing": true
+        "playing": false
     },
     {
         "name": "Rice",
@@ -349,7 +349,7 @@
     },
     {
         "name": "Rutgers",
-        "playing": true
+        "playing": false
     },
     {
         "name": "San Diego State",
@@ -513,7 +513,7 @@
     },
     {
         "name": "Wisconsin",
-        "playing": true
+        "playing": false
     },
     {
         "name": "Wyoming",
