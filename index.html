@@ -14,20 +14,20 @@
 
 <body>
     <div class="container">
-        <h1 class="mt-5">2020 FBS Teams</h1>
+        <h1 class="mt-2 mt-md-4">2020 FBS Teams</h1>
         <h5 class="mt-3">How many teams are participating in the 2020 NCAA Division I FBS football season?</h5>
-        <p><strong>116 teams</strong> </p>
+        <p><strong><span class="participating_teams_count"></span> teams</strong></p>
         <div class="mt-4">
             <h5>Teams</h5>
             <hr />
             <div class="row">
-                <div class="col-6">
-                    <h6>Participating (<span id="participating_teams_count"></span>)</h6>
-                    <ul id="participating_teams"></ul>
+                <div class="col-md">
+                    <h6>Participating (<span class="participating_teams_count"></span>)</h6>
+                    <div id="participating_teams" class="teams_container"></div>
                 </div>
-                <div class="col-6">
+                <div class="col-md mt-4 mt-md-0">
                     <h6>Not Participating (<span id="not_participating_teams_count"></span>)</h6>
-                    <ul id="not_participating_teams"></ul>
+                    <div id="not_participating_teams" class="teams_container"></div>
                 </div>
             </div>
         </div>

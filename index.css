@@ -1,0 +1,19 @@
+ul {
+    list-style: none;
+}
+
+.team-logo {
+    max-width: 24px;
+    max-height: 24px;
+}
+
+.logo-container {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    text-align: center;
+}
+
+.teams_container {
+    column-count: 2;
+}

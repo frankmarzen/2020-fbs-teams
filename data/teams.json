@@ -1,522 +1,652 @@
 [
     {
         "name": "Air Force",
-        "playing": true
+        "playing": true,
+        "logo": "air-force.png"
     },
     {
         "name": "Akron",
-        "playing": false
+        "playing": false,
+        "logo": "akron.png"
     },
     {
         "name": "Alabama",
-        "playing": true
+        "playing": true,
+        "logo": "alabama.png"
     },
     {
         "name": "Appalachian State",
-        "playing": true
+        "playing": true,
+        "logo": "app-state.png"
     },
     {
         "name": "Arizona",
-        "playing": true
+        "playing": true,
+        "logo": "arizona.png"
     },
     {
         "name": "Arizona State",
-        "playing": true
+        "playing": true,
+        "logo": "arizona-state.png"
     },
     {
         "name": "Arkansas",
-        "playing": true
+        "playing": true,
+        "logo": "arkansas.png"
     },
     {
         "name": "Arkansas State",
-        "playing": true
+        "playing": true,
+        "logo": "arkansas-state.png"
     },
     {
         "name": "Army",
-        "playing": true
+        "playing": true,
+        "logo": "army.png"
     },
     {
         "name": "Auburn",
-        "playing": true
+        "playing": true,
+        "logo": "auburn.png"
     },
     {
         "name": "Ball State",
-        "playing": false
+        "playing": false,
+        "logo": "ball-state.png"
     },
     {
         "name": "Baylor",
-        "playing": true
+        "playing": true,
+        "logo": "baylor.png"
     },
     {
         "name": "Boise State",
-        "playing": true
+        "playing": true,
+        "logo": "boise-state.png"
     },
     {
         "name": "Boston College",
-        "playing": true
+        "playing": true,
+        "logo": "boston-college.png"
     },
     {
         "name": "Bowling Green",
-        "playing": false
+        "playing": false,
+        "logo": "bowling-green.png"
     },
     {
         "name": "Buffalo",
-        "playing": false
+        "playing": false,
+        "logo": "buffalo.png"
     },
     {
         "name": "BYU",
-        "playing": true
+        "playing": true,
+        "logo": "byu.png"
     },
     {
         "name": "California",
-        "playing": true
+        "playing": true,
+        "logo": "cal.png"
     },
     {
         "name": "Central Michigan",
-        "playing": false
+        "playing": false,
+        "logo": "cmu.png"
     },
     {
         "name": "Charlotte",
-        "playing": true
+        "playing": true,
+        "logo": "charlotte.png"
     },
     {
         "name": "Cincinnati",
-        "playing": true
+        "playing": true,
+        "logo": "cincinnatti.png"
     },
     {
         "name": "Clemson",
-        "playing": true
+        "playing": true,
+        "logo": "clemson.png"
     },
     {
         "name": "Coastal Carolina",
-        "playing": true
+        "playing": true,
+        "logo": "coastal.png"
     },
     {
         "name": "Colorado",
-        "playing": true
+        "playing": true,
+        "logo": "colorado.png"
     },
     {
         "name": "Colorado State",
-        "playing": false
+        "playing": false,
+        "logo": "colorado-state.png"
     },
     {
         "name": "Duke",
-        "playing": true
+        "playing": true,
+        "logo": "duke.png"
     },
     {
         "name": "East Carolina",
-        "playing": true
+        "playing": true,
+        "logo": "ecu.png"
     },
     {
         "name": "Eastern Michigan",
-        "playing": false
+        "playing": false,
+        "logo": "emu.png"
     },
     {
         "name": "FIU",
-        "playing": true
+        "playing": true,
+        "logo": "fiu.png"
     },
     {
         "name": "Florida",
-        "playing": true
+        "playing": true,
+        "logo": "florida.png"
     },
     {
         "name": "Florida Atlantic",
-        "playing": true
+        "playing": true,
+        "logo": "fau.png"
     },
     {
         "name": "Florida State",
-        "playing": true
+        "playing": true,
+        "logo": "fsu.png"
     },
     {
         "name": "Fresno State",
-        "playing": true
+        "playing": true,
+        "logo": "fresno.png"
     },
     {
         "name": "Georgia",
-        "playing": true
+        "playing": true,
+        "logo": "georgia.png"
     },
     {
         "name": "Georgia Southern",
-        "playing": true
+        "playing": true,
+        "logo": "georgia-southern.png"
     },
     {
         "name": "Georgia State",
-        "playing": true
+        "playing": true,
+        "logo": "georgia-state.png"
     },
     {
         "name": "Georgia Tech",
-        "playing": true
+        "playing": true,
+        "logo": "georgia-tech.png"
     },
     {
         "name": "Hawaii",
-        "playing": true
+        "playing": true,
+        "logo": "hawaii.png"
     },
     {
         "name": "Houston",
-        "playing": true
+        "playing": true,
+        "logo": "houston.png"
     },
     {
         "name": "Illinois",
-        "playing": true
+        "playing": true,
+        "logo": "illinois.png"
     },
     {
         "name": "Indiana",
-        "playing": true
+        "playing": true,
+        "logo": "indiana.png"
     },
     {
         "name": "Iowa",
-        "playing": true
+        "playing": true,
+        "logo": "iowa.png"
     },
     {
         "name": "Iowa State",
-        "playing": true
+        "playing": true,
+        "logo": "iowa-state.png"
     },
     {
         "name": "Kansas",
-        "playing": true
+        "playing": true,
+        "logo": "kansas.png"
     },
     {
         "name": "Kansas State",
-        "playing": true
+        "playing": true,
+        "logo": "kansas-state.png"
     },
     {
         "name": "Kent State",
-        "playing": false
+        "playing": false,
+        "logo": "kent-state.png"
     },
     {
         "name": "Kentucky",
-        "playing": true
+        "playing": true,
+        "logo": "kentucky.png"
     },
     {
         "name": "Liberty",
-        "playing": true
+        "playing": true,
+        "logo": "liberty.png"
     },
     {
         "name": "Louisiana",
-        "playing": true
+        "playing": true,
+        "logo": "louisiana.png"
     },
     {
         "name": "Louisiana–Monroe",
-        "playing": true
+        "playing": true,
+        "logo": "louisiana-monroe.png"
     },
     {
         "name": "Louisiana Tech",
-        "playing": true
+        "playing": true,
+        "logo": "louisiana-tech.png"
     },
     {
         "name": "Louisville",
-        "playing": true
+        "playing": true,
+        "logo": "louisville.png"
     },
     {
         "name": "LSU",
-        "playing": true
+        "playing": true,
+        "logo": "lsu.png"
     },
     {
         "name": "Marshall",
-        "playing": true
+        "playing": true,
+        "logo": "marshall.png"
     },
     {
         "name": "Maryland",
-        "playing": true
+        "playing": true,
+        "logo": "maryland.png"
     },
     {
         "name": "Memphis",
-        "playing": true
+        "playing": true,
+        "logo": "memphis.png"
     },
     {
         "name": "Miami (FL)",
-        "playing": true
+        "playing": true,
+        "logo": "miami.png"
     },
     {
         "name": "Miami (OH)",
-        "playing": false
+        "playing": false,
+        "logo": "miami-oh.png"
     },
     {
         "name": "Michigan",
-        "playing": true
+        "playing": true,
+        "logo": "michigan.png"
     },
     {
         "name": "Michigan State",
-        "playing": true
+        "playing": true,
+        "logo": "michigan-state.png"
     },
     {
         "name": "Middle Tennessee",
-        "playing": true
+        "playing": true,
+        "logo": "mtsu.png"
     },
     {
         "name": "Minnesota",
-        "playing": true
+        "playing": true,
+        "logo": "minnesota.png"
     },
     {
         "name": "Mississippi State",
-        "playing": true
+        "playing": true,
+        "logo": "mississippi-state.png"
     },
     {
         "name": "Missouri",
-        "playing": true
+        "playing": true,
+        "logo": "mizzou.png"
     },
     {
         "name": "Navy",
-        "playing": true
+        "playing": true,
+        "logo": "navy.png"
     },
     {
         "name": "NC State",
-        "playing": true
+        "playing": true,
+        "logo": "nc-state.png"
     },
     {
         "name": "Nebraska",
-        "playing": true
+        "playing": true,
+        "logo": "nebraska.png"
     },
     {
         "name": "Nevada",
-        "playing": true
+        "playing": true,
+        "logo": "nevada.png"
     },
     {
         "name": "New Mexico",
-        "playing": true
+        "playing": true,
+        "logo": "new-mexico.png"
     },
     {
         "name": "New Mexico State",
-        "playing": true
+        "playing": true,
+        "logo": "nmsu.png"
     },
     {
         "name": "North Carolina",
-        "playing": true
+        "playing": true,
+        "logo": "unc.png"
     },
     {
         "name": "North Texas",
-        "playing": true
+        "playing": true,
+        "logo": "unt.png"
     },
     {
         "name": "Northern Illinois",
-        "playing": false
+        "playing": false,
+        "logo": "niu.png"
     },
     {
         "name": "Northwestern",
-        "playing": true
+        "playing": true,
+        "logo": "northwestern.png"
     },
     {
         "name": "Notre Dame",
-        "playing": true
+        "playing": true,
+        "logo": "notre-dame.png"
     },
     {
         "name": "Ohio",
-        "playing": false
+        "playing": false,
+        "logo": "ohio.png"
     },
     {
         "name": "Ohio State",
-        "playing": true
+        "playing": true,
+        "logo": "ohio-state.png"
     },
     {
         "name": "Oklahoma",
-        "playing": true
+        "playing": true,
+        "logo": "oklahoma.png"
     },
     {
         "name": "Oklahoma State",
-        "playing": true
+        "playing": true,
+        "logo": "osu.png"
     },
     {
         "name": "Old Dominion",
-        "playing": true
+        "playing": true,
+        "logo": "odu.png"
     },
     {
         "name": "Ole Miss",
-        "playing": true
+        "playing": true,
+        "logo": "ole-miss.png"
     },
     {
         "name": "Oregon",
-        "playing": true
+        "playing": true,
+        "logo": "oregon.png"
     },
     {
         "name": "Oregon State",
-        "playing": true
+        "playing": true,
+        "logo": "oregon-state.png"
     },
     {
         "name": "Penn State",
-        "playing": true
+        "playing": true,
+        "logo": "penn-state.png"
     },
     {
         "name": "Pittsburgh",
-        "playing": true
+        "playing": true,
+        "logo": "pitt.png"
     },
     {
         "name": "Purdue",
-        "playing": true
+        "playing": true,
+        "logo": "purdue.png"
     },
     {
         "name": "Rice",
-        "playing": true
+        "playing": true,
+        "logo": "rice.png"
     },
     {
         "name": "Rutgers",
-        "playing": true
+        "playing": true,
+        "logo": "rutgers.png"
     },
     {
         "name": "San Diego State",
-        "playing": true
+        "playing": true,
+        "logo": "sdsu.png"
     },
     {
         "name": "San Jose State",
-        "playing": true
+        "playing": true,
+        "logo": "san-jose.png"
     },
     {
         "name": "SMU",
-        "playing": true
+        "playing": true,
+        "logo": "smu.png"
     },
     {
         "name": "South Alabama",
-        "playing": true
+        "playing": true,
+        "logo": "south-alabama.png"
     },
     {
         "name": "South Carolina",
-        "playing": true
+        "playing": true,
+        "logo": "south-carolina.png"
     },
     {
         "name": "South Florida",
-        "playing": true
+        "playing": true,
+        "logo": "usf.png"
     },
     {
         "name": "Southern Miss",
-        "playing": true
+        "playing": true,
+        "logo": "southern-miss.png"
     },
     {
         "name": "Stanford",
-        "playing": true
+        "playing": true,
+        "logo": "stanford.png"
     },
     {
         "name": "Syracuse",
-        "playing": true
+        "playing": true,
+        "logo": "syracuse.png"
     },
     {
         "name": "TCU",
-        "playing": true
+        "playing": true,
+        "logo": "tcu.png"
     },
     {
         "name": "Temple",
-        "playing": true
+        "playing": true,
+        "logo": "temple.png"
     },
     {
         "name": "Tennessee",
-        "playing": true
+        "playing": true,
+        "logo": "tennessee.png"
     },
     {
         "name": "Texas",
-        "playing": true
+        "playing": true,
+        "logo": "texas.png"
     },
     {
         "name": "Texas A&M",
-        "playing": true
+        "playing": true,
+        "logo": "tamu.png"
     },
     {
         "name": "Texas State",
-        "playing": true
+        "playing": true,
+        "logo": "texas-state.png"
     },
     {
         "name": "Texas Tech",
-        "playing": true
+        "playing": true,
+        "logo": "texas-tech.png"
     },
     {
         "name": "Toledo",
-        "playing": false
+        "playing": false,
+        "logo": "toledo.png"
     },
     {
         "name": "Troy",
-        "playing": true
+        "playing": true,
+        "logo": "troy.png"
     },
     {
         "name": "Tulane",
-        "playing": true
+        "playing": true,
+        "logo": "tulane.jpeg"
     },
     {
         "name": "Tulsa",
-        "playing": true
+        "playing": true,
+        "logo": "tulsa.png"
     },
     {
         "name": "UAB",
-        "playing": true
+        "playing": true,
+        "logo": "uab.png"
     },
     {
         "name": "UCF",
-        "playing": true
+        "playing": true,
+        "logo": "ucf.png"
     },
     {
         "name": "UCLA",
-        "playing": true
+        "playing": true,
+        "logo": "ucla.png"
     },
     {
         "name": "UConn",
-        "playing": false
+        "playing": false,
+        "logo": "uconn.png"
     },
     {
         "name": "UMass",
-        "playing": true
+        "playing": true,
+        "logo": "umass.png"
     },
     {
         "name": "UNLV",
-        "playing": true
+        "playing": true,
+        "logo": "unlv.png"
     },
     {
         "name": "USC",
-        "playing": true
+        "playing": true,
+        "logo": "usc.png"
     },
     {
         "name": "UTEP",
-        "playing": true
+        "playing": true,
+        "logo": "utep.svg"
     },
     {
         "name": "UTSA",
-        "playing": true
+        "playing": true,
+        "logo": "utsa.png"
     },
     {
         "name": "Utah",
-        "playing": true
+        "playing": true,
+        "logo": "utah.png"
     },
     {
         "name": "Utah State",
-        "playing": true
+        "playing": true,
+        "logo": "utah-state.png"
     },
     {
         "name": "Vanderbilt",
-        "playing": true
+        "playing": true,
+        "logo": "vandy.png"
     },
     {
         "name": "Virginia",
-        "playing": true
+        "playing": true,
+        "logo": "uva.png"
     },
     {
         "name": "Virginia Tech",
-        "playing": true
+        "playing": true,
+        "logo": "vt.png"
     },
     {
         "name": "Wake Forest",
-        "playing": true
+        "playing": true,
+        "logo": "wake.png"
     },
     {
         "name": "Washington",
-        "playing": true
+        "playing": true,
+        "logo": "washington.png"
     },
     {
         "name": "Washington State",
-        "playing": true
+        "playing": true,
+        "logo": "wazzu.png"
     },
     {
         "name": "West Virginia",
-        "playing": true
+        "playing": true,
+        "logo": "wvu.png"
     },
     {
         "name": "Western Kentucky",
-        "playing": true
+        "playing": true,
+        "logo": "western-kentucky.png"
     },
     {
         "name": "Western Michigan",
-        "playing": false
+        "playing": false,
+        "logo": "western.png"
     },
     {
         "name": "Wisconsin",
-        "playing": true
+        "playing": true,
+        "logo": "wisconsin.png"
     },
     {
         "name": "Wyoming",
-        "playing": true
+        "playing": true,
+        "logo": "wyoming.png"
     }
 ]
