@@ -396,7 +396,7 @@
     },
     {
         "name": "Old Dominion",
-        "playing": true,
+        "playing": false,
         "logo": "odu.png"
     },
     {
