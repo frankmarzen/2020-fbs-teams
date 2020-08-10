@@ -21,12 +21,12 @@
     },
     {
         "name": "Arizona",
-        "playing": true,
+        "playing": false,
         "logo": "arizona.png"
     },
     {
         "name": "Arizona State",
-        "playing": true,
+        "playing": false,
         "logo": "arizona-state.png"
     },
     {
@@ -86,7 +86,7 @@
     },
     {
         "name": "California",
-        "playing": true,
+        "playing": false,
         "logo": "cal.png"
     },
     {
@@ -116,7 +116,7 @@
     },
     {
         "name": "Colorado",
-        "playing": true,
+        "playing": false,
         "logo": "colorado.png"
     },
     {
@@ -406,12 +406,12 @@
     },
     {
         "name": "Oregon",
-        "playing": true,
+        "playing": false,
         "logo": "oregon.png"
     },
     {
         "name": "Oregon State",
-        "playing": true,
+        "playing": false,
         "logo": "oregon-state.png"
     },
     {
@@ -476,7 +476,7 @@
     },
     {
         "name": "Stanford",
-        "playing": true,
+        "playing": false,
         "logo": "stanford.png"
     },
     {
@@ -551,7 +551,7 @@
     },
     {
         "name": "UCLA",
-        "playing": true,
+        "playing": false,
         "logo": "ucla.png"
     },
     {
@@ -571,7 +571,7 @@
     },
     {
         "name": "USC",
-        "playing": true,
+        "playing": false,
         "logo": "usc.png"
     },
     {
@@ -586,7 +586,7 @@
     },
     {
         "name": "Utah",
-        "playing": true,
+        "playing": false,
         "logo": "utah.png"
     },
     {
@@ -616,12 +616,12 @@
     },
     {
         "name": "Washington",
-        "playing": true,
+        "playing": false,
         "logo": "washington.png"
     },
     {
         "name": "Washington State",
-        "playing": true,
+        "playing": false,
         "logo": "wazzu.png"
     },
     {
