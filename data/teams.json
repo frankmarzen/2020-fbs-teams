@@ -196,17 +196,17 @@
     },
     {
         "name": "Illinois",
-        "playing": true,
+        "playing": false,
         "logo": "illinois.png"
     },
     {
         "name": "Indiana",
-        "playing": true,
+        "playing": false,
         "logo": "indiana.png"
     },
     {
         "name": "Iowa",
-        "playing": true,
+        "playing": false,
         "logo": "iowa.png"
     },
     {
@@ -271,7 +271,7 @@
     },
     {
         "name": "Maryland",
-        "playing": true,
+        "playing": false,
         "logo": "maryland.png"
     },
     {
@@ -291,12 +291,12 @@
     },
     {
         "name": "Michigan",
-        "playing": true,
+        "playing": false,
         "logo": "michigan.png"
     },
     {
         "name": "Michigan State",
-        "playing": true,
+        "playing": false,
         "logo": "michigan-state.png"
     },
     {
@@ -306,7 +306,7 @@
     },
     {
         "name": "Minnesota",
-        "playing": true,
+        "playing": false,
         "logo": "minnesota.png"
     },
     {
@@ -331,7 +331,7 @@
     },
     {
         "name": "Nebraska",
-        "playing": true,
+        "playing": false,
         "logo": "nebraska.png"
     },
     {
@@ -366,7 +366,7 @@
     },
     {
         "name": "Northwestern",
-        "playing": true,
+        "playing": false,
         "logo": "northwestern.png"
     },
     {
@@ -381,7 +381,7 @@
     },
     {
         "name": "Ohio State",
-        "playing": true,
+        "playing": false,
         "logo": "ohio-state.png"
     },
     {
@@ -416,7 +416,7 @@
     },
     {
         "name": "Penn State",
-        "playing": true,
+        "playing": false,
         "logo": "penn-state.png"
     },
     {
@@ -426,7 +426,7 @@
     },
     {
         "name": "Purdue",
-        "playing": true,
+        "playing": false,
         "logo": "purdue.png"
     },
     {
@@ -436,7 +436,7 @@
     },
     {
         "name": "Rutgers",
-        "playing": true,
+        "playing": false,
         "logo": "rutgers.png"
     },
     {
@@ -641,7 +641,7 @@
     },
     {
         "name": "Wisconsin",
-        "playing": true,
+        "playing": false,
         "logo": "wisconsin.png"
     },
     {
