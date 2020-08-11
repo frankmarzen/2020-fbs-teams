@@ -186,7 +186,7 @@
     },
     {
         "name": "Hawaii",
-        "playing": true,
+        "playing": false,
         "logo": "hawaii.png"
     },
     {
