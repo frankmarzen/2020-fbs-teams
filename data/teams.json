@@ -346,7 +346,7 @@
     },
     {
         "name": "New Mexico State",
-        "playing": true,
+        "playing": false,
         "logo": "nmsu.png"
     },
     {
