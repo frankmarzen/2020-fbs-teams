@@ -561,7 +561,7 @@
     },
     {
         "name": "UMass",
-        "playing": false,
+        "playing": true,
         "logo": "umass.png"
     },
     {
