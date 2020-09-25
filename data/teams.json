@@ -6,7 +6,7 @@
     },
     {
         "name": "Akron",
-        "playing": false,
+        "playing": true,
         "logo": "akron.png"
     },
     {
@@ -51,7 +51,7 @@
     },
     {
         "name": "Ball State",
-        "playing": false,
+        "playing": true,
         "logo": "ball-state.png"
     },
     {
@@ -71,12 +71,12 @@
     },
     {
         "name": "Bowling Green",
-        "playing": false,
+        "playing": true,
         "logo": "bowling-green.png"
     },
     {
         "name": "Buffalo",
-        "playing": false,
+        "playing": true,
         "logo": "buffalo.png"
     },
     {
@@ -91,7 +91,7 @@
     },
     {
         "name": "Central Michigan",
-        "playing": false,
+        "playing": true,
         "logo": "cmu.png"
     },
     {
@@ -136,7 +136,7 @@
     },
     {
         "name": "Eastern Michigan",
-        "playing": false,
+        "playing": true,
         "logo": "emu.png"
     },
     {
@@ -226,7 +226,7 @@
     },
     {
         "name": "Kent State",
-        "playing": false,
+        "playing": true,
         "logo": "kent-state.png"
     },
     {
@@ -286,7 +286,7 @@
     },
     {
         "name": "Miami (OH)",
-        "playing": false,
+        "playing": true,
         "logo": "miami-oh.png"
     },
     {
@@ -361,7 +361,7 @@
     },
     {
         "name": "Northern Illinois",
-        "playing": false,
+        "playing": true,
         "logo": "niu.png"
     },
     {
@@ -376,7 +376,7 @@
     },
     {
         "name": "Ohio",
-        "playing": false,
+        "playing": true,
         "logo": "ohio.png"
     },
     {
@@ -521,7 +521,7 @@
     },
     {
         "name": "Toledo",
-        "playing": false,
+        "playing": true,
         "logo": "toledo.png"
     },
     {
@@ -636,7 +636,7 @@
     },
     {
         "name": "Western Michigan",
-        "playing": false,
+        "playing": true,
         "logo": "western.png"
     },
     {
