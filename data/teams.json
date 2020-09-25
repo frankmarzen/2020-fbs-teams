@@ -1,7 +1,7 @@
 [
     {
         "name": "Air Force",
-        "playing": false,
+        "playing": true,
         "logo": "air-force.png"
     },
     {
@@ -21,12 +21,12 @@
     },
     {
         "name": "Arizona",
-        "playing": false,
+        "playing": true,
         "logo": "arizona.png"
     },
     {
         "name": "Arizona State",
-        "playing": false,
+        "playing": true,
         "logo": "arizona-state.png"
     },
     {
@@ -61,7 +61,7 @@
     },
     {
         "name": "Boise State",
-        "playing": false,
+        "playing": true,
         "logo": "boise-state.png"
     },
     {
@@ -86,7 +86,7 @@
     },
     {
         "name": "California",
-        "playing": false,
+        "playing": true,
         "logo": "cal.png"
     },
     {
@@ -116,12 +116,12 @@
     },
     {
         "name": "Colorado",
-        "playing": false,
+        "playing": true,
         "logo": "colorado.png"
     },
     {
         "name": "Colorado State",
-        "playing": false,
+        "playing": true,
         "logo": "colorado-state.png"
     },
     {
@@ -161,7 +161,7 @@
     },
     {
         "name": "Fresno State",
-        "playing": false,
+        "playing": true,
         "logo": "fresno.png"
     },
     {
@@ -186,7 +186,7 @@
     },
     {
         "name": "Hawaii",
-        "playing": false,
+        "playing": true,
         "logo": "hawaii.png"
     },
     {
@@ -336,12 +336,12 @@
     },
     {
         "name": "Nevada",
-        "playing": false,
+        "playing": true,
         "logo": "nevada.png"
     },
     {
         "name": "New Mexico",
-        "playing": false,
+        "playing": true,
         "logo": "new-mexico.png"
     },
     {
@@ -406,12 +406,12 @@
     },
     {
         "name": "Oregon",
-        "playing": false,
+        "playing": true,
         "logo": "oregon.png"
     },
     {
         "name": "Oregon State",
-        "playing": false,
+        "playing": true,
         "logo": "oregon-state.png"
     },
     {
@@ -441,12 +441,12 @@
     },
     {
         "name": "San Diego State",
-        "playing": false,
+        "playing": true,
         "logo": "sdsu.png"
     },
     {
         "name": "San Jose State",
-        "playing": false,
+        "playing": true,
         "logo": "san-jose.png"
     },
     {
@@ -476,7 +476,7 @@
     },
     {
         "name": "Stanford",
-        "playing": false,
+        "playing": true,
         "logo": "stanford.png"
     },
     {
@@ -551,7 +551,7 @@
     },
     {
         "name": "UCLA",
-        "playing": false,
+        "playing": true,
         "logo": "ucla.png"
     },
     {
@@ -566,12 +566,12 @@
     },
     {
         "name": "UNLV",
-        "playing": false,
+        "playing": true,
         "logo": "unlv.png"
     },
     {
         "name": "USC",
-        "playing": false,
+        "playing": true,
         "logo": "usc.png"
     },
     {
@@ -586,12 +586,12 @@
     },
     {
         "name": "Utah",
-        "playing": false,
+        "playing": true,
         "logo": "utah.png"
     },
     {
         "name": "Utah State",
-        "playing": false,
+        "playing": true,
         "logo": "utah-state.png"
     },
     {
@@ -616,12 +616,12 @@
     },
     {
         "name": "Washington",
-        "playing": false,
+        "playing": true,
         "logo": "washington.png"
     },
     {
         "name": "Washington State",
-        "playing": false,
+        "playing": true,
         "logo": "wazzu.png"
     },
     {
@@ -646,7 +646,7 @@
     },
     {
         "name": "Wyoming",
-        "playing": false,
+        "playing": true,
         "logo": "wyoming.png"
     }
 ]
